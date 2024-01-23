@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirav</h1>
-
+<h3 align="center">Just a guy who is doing all this stuff for fun :)</h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,4 +14,4 @@
 </p>
 
 
-[![An image of @niiirav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niiirav)](https://holopin.io/@niiirav)
+
