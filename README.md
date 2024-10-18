@@ -1,13 +1,9 @@
-<!-- - 🔭 I’m currently working on [EveryNyan](https://github.com/rishavanand/github-profilinator)  --->
-
-- 🌱 I’m currently learning Web Development
+- i like cats
 - 📧 Contact me at [ni3rav@proton.me](mailto:ni3rav.proton.me)
-- ⚡ Fun fact: I like cats
 
 <br/>
 
 ## My Skill Set
-
 <table><tr><td valign="top" width="33%">
 
 ### Languages
